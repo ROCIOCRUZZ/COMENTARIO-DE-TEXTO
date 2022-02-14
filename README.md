@@ -6,4 +6,4 @@ En los recuros emplean diferentes colores para distinguir mejor los datos. Por e
 ## Utilidad del periodismo de datos
 El periodismo de datos, en este caso, nos permite obtener información relevante sobre los contagios de covid-19 en tiempo real. Además, permite establecer comparaciones y analizar la evolución del virus a lo largo del tiempo. De esta forma, es más fácil establecer medidas teniendo en cuenta estos datos y los ciudadanos pueden comprenderlos de manera más clara. 
 
-Disponibilidad del enlace para obtener más información: https://wwww.lanacion.com.ar/el-mundo/coronavirus-asi-es-avance-del-virus-se-nid2328201
+Disponibilidad del enlace para obtener más información: https://www.lanacion.com.ar/el-mundo/coronavirus-asi-es-avance-del-virus-se-nid2328201/
