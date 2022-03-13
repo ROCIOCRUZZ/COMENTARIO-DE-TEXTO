@@ -25,4 +25,3 @@ Por último, la publicación presenta un apartado titulado “virus” donde se 
 
 ## Utilidad del periodismo de datos
 El periodismo de datos, en este caso, nos permite obtener información relevante sobre los contagios de covid-19 en tiempo real. Además, permite establecer comparaciones y analizar la evolución del virus a lo largo del tiempo. De esta forma, es más fácil establecer medidas teniendo en cuenta estos datos y los ciudadanos pueden comprenderlos de manera más clara. 
-
