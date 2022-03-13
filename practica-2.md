@@ -6,7 +6,7 @@ La Delegación del Gobierno para la Violencia de Género ha elaborado una Macroe
 
 El 31,9% de las mujeres residentes en España ha sufrido violencia psicológica por parte de alguna pareja (actual o pasada) a lo largo de su vida, siendo esta la forma de violencia más sufrida. Seguidas de Control  (27%), Emocional (23,2%), Física o Sexual (14,2%), Miedo (13,9%), Económica (11,5%), Física (11%) y la menos sufrida, Sexual (8,9%). 
 
-<iframe id='ep-chart-ef91db20-2457-4078-8f3f-65e1149359e7' src='https://www.epdata.es/embed/ef91db20-2457-4078-8f3f-65e1149359e7/450' style='width: 100%; min-height: 450px; overflow: hidden;' frameborder='0' scrolling='no' height='450'></iframe>
+![Image text](https:github.com/Rociocruzz/repositorio-rociocruz/blob/main/graficoviolenciapareja.png)
 
 Estas cifras varían según la edad de las mujeres. La franja de edad con mayor porcentaje de mujeres que han sufrido violencia por parte de alguna pareja (actual o pasada) a lo largo de su vida se sitúa entre 45 y 54 años (13.6%).
 
