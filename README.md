@@ -1,4 +1,5 @@
 # Periodismo de datos en el periódico   *La Nación*
+# Análisis
 La visualización de datos sujeta a análisis corresponde con el artículo ["Coronavirus. El avance del virus en tiempo real"](https://www.lanacion.com.ar/el-mundo/coronavirus-asi-es-avance-del-virus-se-nid2328201/) publicado en el periódico argentino *La Nación*. Este medio, facilita una aplicación web al ciudadano la cual le permite seguir en tiempo real las estadísticas de diagnósticos y muertes por la covid-19 en Argentina y el resto del mundo. 
 
 En dicha aplicación podemos observar diferentes recursos, los cuales están presentados mediante un titular y la correspondiente herramienta (gráfico, ilustración, mapa...) que representa la temática de cada uno de ellos. 
