@@ -1,1 +1,2 @@
-Tomando como base los "notebooks" "barchart" y "api-pandas-folium" que hemos realizado hasta ahora la práctica 3 consiste en completar los cuadernos con nuestros comentarios donde expliquemos qué hemos hecho, qué entendemos que hemos hecho y qué nos falta por entender.
+# Información sobre la práctica 3:
+Tomando como base los "notebooks" "barchart" y "api-pandas-folium" la práctica 3 consiste en completar mis cuadernos con nuestros comentarios donde explico qué he hecho, qué entiendo que hemos hecho y qué me falta por entender. Una vez he realizado esto, descargo los archivos en los formatos "ipynb" y "html". 
